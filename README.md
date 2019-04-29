@@ -1,3 +1,3 @@
-### Смотри [TUTORIAL.md].  
+### Смотри [First_step].  
 
-[TUTORIAL.md]:https://github.com/Kiri28/Data-analysis_project/blob/master/Docs/1_TUTORIAL.md
+[First_step]:https://github.com/Kiri28/Data-analysis_project/blob/master/Docs/1_TUTORIAL.md
